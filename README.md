@@ -7,7 +7,8 @@ gcc -o server -g sftp_server.c
 ```
 
 Usage:
-1) Start server (default listen on port 1337)
+
+1) Start server (listens on port 1337)
 ```c
 ./server
 ```
